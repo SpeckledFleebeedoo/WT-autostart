@@ -67,6 +67,10 @@ mouse.release(Button.left)
 
 time.sleep(60)      #Wait for game to load
 
+mouse.position = (1800, 100)    #switch to game window
+mouse.press(Button.left)
+mouse.release(Button.left)
+
 keyboard.press(Key.alt)     #Close game
 keyboard.press(Key.f4)
 keyboard.release(Key.alt)
