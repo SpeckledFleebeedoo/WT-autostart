@@ -8,3 +8,7 @@ Open the Startup folder by pressing win+r and entering "shell:startup"
 and put in shortcuts to both WTAutostart.py and the War Thunder Launcher.
 
 Fill in the values under Setup in WTAutostart.py
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Alternatively, you can download the executables folder and run the program from there. Add the settings in settings.txt.
