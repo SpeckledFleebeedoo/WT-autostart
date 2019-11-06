@@ -7,6 +7,5 @@ Shows the current location of the pointer, updates once per second.
 
 mouse = MSController()
 while True:
-    print('The current pointer position is {0}'.format(
-        mouse.position))
+    print(f"x = {mouse.position[0]}, y = {mouse.position[1]}")
     time.sleep(1)
