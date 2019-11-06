@@ -22,7 +22,7 @@ username = "yourmail@gmail.com"     #Email to send from
 password = "yourpassword"           #Password of sending account, if using gmail enable less secure apps (https://myaccount.google.com/lesssecureapps) or set an application specific password.
 receiver = "receiver@gmail.com"     #Email to send to
 
-#Set a position on the top half of the Play button (not on white text), use mouselocation.py to find values. (These might work for HD screens, not sure)
+#Set a position on the top half of the Play button (not on white text), use mouselocation.py to find values. (These values might work for HD screens, not sure)
 mouseposx = 1312
 mouseposy = 831
 
