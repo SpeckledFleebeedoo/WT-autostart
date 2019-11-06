@@ -1,0 +1,18 @@
+Email to send from:
+yourmail@gmail.com
+
+Password of sending account, if using gmail enable less secure apps (https://myaccount.google.com/lesssecureapps) or set an application specific password.
+yourpassword
+
+Email provider smtp adress:
+smtp.gmail.com
+
+Email to send to:
+receiver@gmail.com
+
+Set a position on the top half of the Play button (not on white text), use mouselocation.py to find values. (These might work for HD screens, not sure)
+x coordinate:
+1312
+
+y coordinate:
+831
